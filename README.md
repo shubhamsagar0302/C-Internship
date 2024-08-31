@@ -1,1 +1,1 @@
-# C-Internship
+# C++-Internship
